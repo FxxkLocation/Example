@@ -1,5 +1,5 @@
 Example REPO
 
 List：
-- FxxkLocation/FxxkLocation
-- FxxkLocation/GithubDirect
+- [FxxkLocation/FxxkLocation](https://github.com/Mai-xiyu/Github-direct)
+- [FxxkLocation/GithubDirect](https://github.com/FxxkLocation/Github-direct)
